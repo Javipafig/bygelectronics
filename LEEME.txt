@@ -1,0 +1,11 @@
+1. Archivo Base de datos bygelectronics (sql).
+2. Software creado en PHP. (Usuario: Javier1 Pass:1234567)
+			(Usuario: admin Pass: admin12345)
+2.1 Modificar usuarios.
+2.2 Creacion de usuarios.
+3. visualizar logs(en proceso).
+4. Archivos .bash (faltantes).
+
+URL GITHUB PARA DESCARGAR.(Seguimiento).
+
+https://github.com/Javipafig/bygelectronics
